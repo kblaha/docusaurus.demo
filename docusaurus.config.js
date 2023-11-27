@@ -44,13 +44,13 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/kblaha/docusaurus.demo/',
+          editUrl: 'https://github.com/kblaha/docusaurus.demo/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/kblaha/docusaurus.demo/',
+          editUrl: 'https://github.com/kblaha/docusaurus.demo/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
