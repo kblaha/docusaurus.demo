@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-site.example.com/docusaurus.demo/blog</id>
     <title>Demo Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-11-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-site.example.com/docusaurus.demo/blog"/>
     <subtitle>Demo Site Blog</subtitle>
     <icon>https://your-docusaurus-site.example.com/docusaurus.demo/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/docusaurus.demo/blog/2023/11/27/2023/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/docusaurus.demo/blog/2023/11/27/2023/welcome"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you can read this it means I was able to succesfully create and then deploy a new website based on docusaurus.]]></summary>
+        <content type="html"><![CDATA[<p>If you can read this it means I was able to succesfully create and then deploy a new website based on <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a>.</p>]]></content>
+        <author>
+            <name>kblaha</name>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://your-docusaurus-site.example.com/docusaurus.demo/blog/welcome</id>
